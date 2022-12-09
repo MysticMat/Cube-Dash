@@ -3,10 +3,7 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags:
-  - HighObstacle
-  - LowObstacle
-  - LevelParent
+  tags: []
   layers:
   - Default
   - TransparentFX
